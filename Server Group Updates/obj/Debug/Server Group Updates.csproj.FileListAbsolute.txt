@@ -1,0 +1,17 @@
+C:\Users\liam.logue.MEASURESOFT\SignalR\Server Group Updates\Server Group Updates\bin\Server Group Updates.dll
+C:\Users\liam.logue.MEASURESOFT\SignalR\Server Group Updates\Server Group Updates\bin\Server Group Updates.pdb
+C:\Users\liam.logue.MEASURESOFT\SignalR\Server Group Updates\Server Group Updates\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\liam.logue.MEASURESOFT\SignalR\Server Group Updates\Server Group Updates\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\liam.logue.MEASURESOFT\SignalR\Server Group Updates\Server Group Updates\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\liam.logue.MEASURESOFT\SignalR\Server Group Updates\Server Group Updates\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\liam.logue.MEASURESOFT\SignalR\Server Group Updates\Server Group Updates\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\liam.logue.MEASURESOFT\SignalR\Server Group Updates\Server Group Updates\bin\Newtonsoft.Json.dll
+C:\Users\liam.logue.MEASURESOFT\SignalR\Server Group Updates\Server Group Updates\bin\Owin.dll
+C:\Users\liam.logue.MEASURESOFT\SignalR\Server Group Updates\Server Group Updates\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\liam.logue.MEASURESOFT\SignalR\Server Group Updates\Server Group Updates\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\liam.logue.MEASURESOFT\SignalR\Server Group Updates\Server Group Updates\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\liam.logue.MEASURESOFT\SignalR\Server Group Updates\Server Group Updates\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\liam.logue.MEASURESOFT\SignalR\Server Group Updates\Server Group Updates\bin\Newtonsoft.Json.xml
+C:\Users\liam.logue.MEASURESOFT\SignalR\Server Group Updates\Server Group Updates\obj\Debug\Server Group Updates.csprojResolveAssemblyReference.cache
+C:\Users\liam.logue.MEASURESOFT\SignalR\Server Group Updates\Server Group Updates\obj\Debug\Server Group Updates.dll
+C:\Users\liam.logue.MEASURESOFT\SignalR\Server Group Updates\Server Group Updates\obj\Debug\Server Group Updates.pdb
